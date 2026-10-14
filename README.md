@@ -57,11 +57,16 @@ The project brings together:
 
 The project proposes success metrics and targets; they are not measured outcomes from a live Ather launch. Any numerical targets in the presentation should be interpreted as hypotheses for future validation.
 
-## Project Files
+## Project Deliverables
 
-- [Project presentation (PowerPoint)]([https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Ather_Energy_Charging_Accessibility.pptx](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Ather_Energy_Charging_Accessibility.pptx))
-- [Capstone project report (PDF)]([Read Capstone Report]([https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Ather_Charging_Accessibility_Capstone_Report.pdf](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Ather_Charging_Accessibility_Capstone_Report.pdf))
-- [Prototype links]([View Prototype Links]([https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Prototype_Links.md](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Prototype_Links.md))
+- [View PowerPoint Presentation](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Ather_Energy_Charging_Accessibility.pptx)
+- [Read Capstone Report](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Ather_Charging_Accessibility_Capstone_Report.pdf)
+- [View Prototype Links File](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Prototype_Links.md)
+
+### Interactive Prototypes
+
+- [Try Route Planner](https://ai.studio/apps/238fd53c-1aea-4de6-9d6d-1316c4127931)
+- [Try Charging Slot Reservation](https://ather-grid-677520987911.asia-southeast1.run.app)
 
 ## Team and Contribution
 
