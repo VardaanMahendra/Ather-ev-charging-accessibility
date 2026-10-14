@@ -59,9 +59,9 @@ The project proposes success metrics and targets; they are not measured outcomes
 
 ## Project Files
 
-- [Project presentation (PowerPoint)](presentation/Ather_Energy_Charging_Accessibility.pptx)
-- [Capstone project report (PDF)](report/Ather_Charging_Accessibility_Capstone_Report.pdf)
-- [Prototype links](prototypes/Prototype_Links.md)
+- [Project presentation (PowerPoint)]([View Presentation](presentation/Ather_Energy_Charging_Accessibility.pptx))
+- [Capstone project report (PDF)]([Read Capstone Report](report/Ather_Charging_Accessibility_Capstone_Report.pdf))
+- [Prototype links]([View Prototype Links](prototypes/Prototype_Links.md))
 
 ## Team and Contribution
 
