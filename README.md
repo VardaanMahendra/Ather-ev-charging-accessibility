@@ -59,9 +59,9 @@ The project proposes success metrics and targets; they are not measured outcomes
 
 ## Project Files
 
-- [Project presentation (PowerPoint)]([View Presentation](presentation/Ather_Energy_Charging_Accessibility.pptx))
-- [Capstone project report (PDF)]([Read Capstone Report](report/Ather_Charging_Accessibility_Capstone_Report.pdf))
-- [Prototype links]([View Prototype Links](prototypes/Prototype_Links.md))
+- [Project presentation (PowerPoint)]([https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Ather_Energy_Charging_Accessibility.pptx](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/main/Ather_Energy_Charging_Accessibility.pptx))
+- [Capstone project report (PDF)]([Read Capstone Report]([https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Ather_Charging_Accessibility_Capstone_Report.pdf](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Ather_Charging_Accessibility_Capstone_Report.pdf))
+- [Prototype links]([View Prototype Links]([https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Prototype_Links.md](https://github.com/VardaanMahendra/Ather-ev-charging-accessibility/blob/7b6fcecb9456629430d1ca26f21620a1141d24be/Prototype_Links.md))
 
 ## Team and Contribution
 
